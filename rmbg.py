@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import argparse
 import sys
 import os
@@ -5,6 +6,7 @@ import numpy as np
 import subprocess
 from pydub import AudioSegment
 import librosa
+import random
 
 class Fingerprint:
     """Base class for audio fingerprinting algorithms."""
