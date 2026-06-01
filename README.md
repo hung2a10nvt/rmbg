@@ -18,6 +18,9 @@ chmod +x rmbg.py
 ./rmbg.py input_podcast.mp4 jvke_her.wav output_clean.mp4
 ```
 
+<img width="742" height="122" alt="test" src="https://github.com/user-attachments/assets/32b3eb47-cad4-46df-ab6f-e17f993d5347" />
+
+
 ## Testing
 The algorithm's robustness and accuracy were evaluated under various acoustic conditions, specifically focusing on field recordings with speech overlap and heavy background noise down to a Signal-to-Noise Ratio (SNR) of **-10 dB**.
 
